@@ -1,0 +1,7 @@
+1. Making a local db, so that we do not have to make api calls for a location again.
+Means We have to first search in our database and if not found, then making the api calls.
+It will also make our app to fetch contents faster.
+
+2. Automatic location of the user based on gps location.
+
+3. Collecting data. For eg: if toilet is available then is it for women or men? 
